@@ -1,6 +1,6 @@
 import load_dictionary
 
-word_list = load_dictionary.load('words.txt')
+word_list = load_dictionary.load('words2.txt')
 
 anagram_list = []
 
